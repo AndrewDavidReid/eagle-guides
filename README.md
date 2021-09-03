@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 8.FE Eagle Guides
 
-You can use the [editor on GitHub](https://github.com/AndrewDavidReid/eagle-guides/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the 8.FE Eagle guides. This is a repository of information maintained by the 8th Fighting Eagles Squad clan. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### AT Resources
 
-### Markdown
+Want to learn the Anti-Tank kits or improve your skills? Check out the following resources and tips.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Starting Guide**
 
-```markdown
-Syntax highlighted code block
+We recommend you start by watching one of the following videos. Any one of them will teach you the basics of LAT vs HAT, warheard types, and 
 
-# Header 1
-## Header 2
-### Header 3
+- [Gorlami YouTube Video](https://www.youtube.com/watch?v=KeX4lqLHDCg)
+- [Moidawg YouTube Video](https://www.youtube.com/watch?v=fqKCWuPEJg4)
+- [Hex YouTube Video](https://www.youtube.com/watch?v=KeX4lqLHDCg)
 
-- Bulleted
-- List
+**Advanced Resources**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndrewDavidReid/eagle-guides/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Vehicle Weak Spots](https://steamcommunity.com/sharedfiles/filedetails/?id=2179115153)
+- [RPG-7 Sights](https://www.reddit.com/r/joinsquad/comments/d1qcgl/guide_how_to_aim_rpg7_tandem/)
