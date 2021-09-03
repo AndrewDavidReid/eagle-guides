@@ -10,7 +10,7 @@ Want to learn the Anti-Tank kits or improve your skills? Check out the following
 
 We recommend you start by watching one of the following videos. Any one of them will teach you the basics of LAT vs HAT, warheard types, and 
 
-- [Gorlami YouTube Video](https://www.youtube.com/watch?v=KeX4lqLHDCg)
+- [Gorlami YouTube Video](https://www.youtube.com/watch?v=l121EXuyIn4)
 - [Moidawg YouTube Video](https://www.youtube.com/watch?v=fqKCWuPEJg4)
 - [Hex YouTube Video](https://www.youtube.com/watch?v=KeX4lqLHDCg)
 
